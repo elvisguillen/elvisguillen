@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently, I'm a Front-End Engineer at Teambuildr where I'm rebuilding and creating new features using React. 
+
+I'm also a VR Developer and enthusiast, currently working on a multiplayer experience on Unreal Engine. (projectstrike.carrd.co)
+
+- 📫 @waslegit
